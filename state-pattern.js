@@ -61,6 +61,7 @@ const contactState = function (page) {
 const page = new PageState();
 page.init();
 
+//Selectors
 const home = document.getElementById('home'),
       about = document.getElementById('about'),
       contact = document.getElementById('contact');
